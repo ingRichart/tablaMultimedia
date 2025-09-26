@@ -1,8 +1,8 @@
 # Proyecto: Tabla Multimedia de mis Hobbits
 ## Contenido.
 ### VideoJuegos
-** Esto es un texto en Negritas**
-__ Esto es un texto en cursivas __
+**Esto es un texto en Negritas**
+__Esto es un texto en cursivas__
 ### Programacion
 * Items 1
 * Items 2
