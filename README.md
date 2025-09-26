@@ -2,7 +2,13 @@
 ## Contenido.
 ### VideoJuegos
 **Esto es un texto en Negritas**
+
 *Esto es un texto en cursivas*
+
+Esto es la parte en donde se le indica el encabezado en mi archivo HTML
+> h1
+
+
 ### Programacion
 * Items 1
 * Items 2
