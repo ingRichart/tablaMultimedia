@@ -2,7 +2,7 @@
 ## Contenido.
 ### VideoJuegos
 **Esto es un texto en Negritas**
-__Esto es un texto en cursivas__
+*Esto es un texto en cursivas*
 ### Programacion
 * Items 1
 * Items 2
